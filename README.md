@@ -18,8 +18,8 @@ Tech Stack
 
 Screenshots
 
-1. [Main Menu](./screenshots/1_menu.png)
-2. [Gameplay](./screenshots/2_game.png)
+1. [Main Menu](./Screenshots/1_menu.png)
+2. [Gameplay](./Screenshots/2_game.png)
 
 ---
 
