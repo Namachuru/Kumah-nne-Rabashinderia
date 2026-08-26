@@ -41,4 +41,4 @@ Author
 Future Improvements
 - High score system  
 - Defeat a boss responsible for the green dragonflies
-- eat special plants enhancing the fire power of the dragonfly
+- Eat special plants enhancing the fire power of the dragonfly
